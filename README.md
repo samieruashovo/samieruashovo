@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samieruashovo" alt="samieruashovo" /></a> </p>
 
-- 🔭 I’m currently working on [tweet_me](https://github.com/samieruashovo/twitter_clone)
+- 🔭 I’m currently working on [tweet_me]([https://github.com/samieruashovo/twitter_clone](https://github.com/samieruashovo/distributed_database_management_system))
 
 - 🌱 I’m currently learning **React, Machine Learning, Django**
 
