@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Samier Uddin Ahammad Shovo</h1>
 <h3 align="center">A passionate Flutter Developer, Fullstack Web developer, and begineer in Machine learning from Bangladesh.</h3>
 
@@ -26,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/samieruashovo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samieruashovo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samier-uddin-ahammad-shovo-13961b229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samier-uddin-ahammad-shovo-13961b229" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:17595533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:17595533" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17595533" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17595533" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -37,28 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samieruashovo&show_icons=true&locale=en" alt="samieruashovo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samieruashovo&" alt="samieruashovo" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
