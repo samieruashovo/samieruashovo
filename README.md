@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Samier Shovo</h1>
-<h3 align="center">A passionate Fullstack developer + beginner in Machine Learning from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Samier Uddin Ahammad Shovo Shovo</h1>
+<h3 align="center">A passionate Fullstack developer, Flutter developer, and beginner in Machine Learning from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samieruashovo" alt="samieruashovo" /></a> </p>
 
 - 🔭 I’m currently working on [tweet_me]([https://github.com/samieruashovo/twitter_clone](https://github.com/samieruashovo/distributed_database_management_system))
 
-- 🌱 I’m currently learning **React, Machine Learning, Django**
+- 🌱 I’m currently learning **React, Machine Learning, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/samieruashovo?tab=repositories](https://github.com/samieruashovo?tab=repositories)
 
