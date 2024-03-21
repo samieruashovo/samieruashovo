@@ -1,3 +1,7 @@
+
+![final_r](https://github.com/samieruashovo/samieruashovo/assets/84716783/fc90aeb5-403e-443c-81b6-d3cc6ae9f869)
+
+
 <h1 align="center">Hi 👋, I'm Samier Uddin Ahammad Shovo</h1>
 <h3 align="center">A passionate Flutter Developer, Fullstack Web developer, and begineer in Machine learning from Bangladesh.</h3>
 
