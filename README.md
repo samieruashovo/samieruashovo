@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [shovo.tech](shovo.tech)
 
-- ⚡ Fun fact **People think I am funny.**
+- ⚡ Fun fact **The Universe's average color is called 'Cosmic latte'.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
