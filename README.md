@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Machine Learning & Laravel.**
 
-- 👨‍💻 All of my projects are available at [shovo.tech](https://shovo.tech/)
+- 👨‍💻 All of my projects are available at [samiershovo.me](http://samiershovo.me/)
 
 - 💬 Ask me about **Flutter, Dart, Django.**
 
 - 📫 How to reach me **samieruashovo@gmail.com**
 
-- 📄 Know about my experiences [shovo.tech](https://shovo.tech/)
+- 📄 Know about my experiences [samiershovo.me](http://samiershovo.me/)
 
 - ⚡ Fun fact **The Universe's average color is called 'Cosmic latte'.**
 
