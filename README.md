@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Samier Uddin Ahammad Shovo</h1>
-<h3 align="center">A passionate Flutter Developer, Fullstack Web developer, and begineer in Machine learning from Bangladesh.</h3>
+<h3 align="center">Flutter Developer | ML & AI Enthusiast — NLP, Computer Vision, Image-Based ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samieruashovo&label=Profile%20views&color=0e75b6&style=flat" alt="samieruashovo" /> </p>
 
@@ -11,9 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/samieruashovo" target="blank"><img src="https://img.shields.io/twitter/follow/samieruashovo?logo=twitter&style=for-the-badge" alt="samieruashovo" /></a> </p>
 
-- 🔭 I’m currently working on my Flutter Projects. **2048 Number Crunch game**
 
-- 🌱 I’m currently learning **Machine Learning & Laravel.**
+- 🌱 I’m currently learning **Machine Learning (NLP, Computer Vision)**
 
 - 👨‍💻 All of my projects are available at [samiershovo.me](http://samiershovo.me/)
 
